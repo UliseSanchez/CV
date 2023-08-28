@@ -1,0 +1,33 @@
+:root{
+    --text-color: #E3DAC9;
+}
+.header{
+    background-color: #000000;
+    color: var(--text-color)
+}
+h1{
+    font-size:75px;
+}
+#contacto{
+    background-color: #645a79;
+    color: var(--text-color);
+}
+
+.fondoElemento{
+    background-color: #808080;
+    color: var(--text-color);
+    border: 1px solid #4b4b4b;
+}
+.porcentaje{
+    color: #645a79;
+}
+body{
+    font-family: 'Markazi Text';
+    text-align: center;
+}
+.fondo{
+    background-color: #d3d3d3;
+    margin: auto;
+    padding: 20px;
+    font-size: larger;
+}
